@@ -86,4 +86,3 @@ Delivering data-driven business insights through SQL and visualization.
 - **LinkedIn**: [linkedin.com/in/lomoanj](https://www.linkedin.com/in/lomoanj/)  
 - **Email**: [lomoanj@gmail.com](mailto:lomoanj@gmail.com)  
 - **GitHub**: [github.com/Lomoanj](https://github.com/Lomoanj)
-
