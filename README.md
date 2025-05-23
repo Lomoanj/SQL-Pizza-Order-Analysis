@@ -48,7 +48,7 @@ from pizza_types a join pizzas c on a.pizza_type_id=c.pizza_type_id join order_d
 ```sql
 select hour(order_time) hour, count(order_id) order_count from orders group by 1 order by 1;
 ```
-[SQL Queries Link](https://github.com/Lomoanj/SQL-Pizza-Order-Analysis/blob/main/Pizza%20Queries.sql)
+[SQL Queries Link](https://github.com/Lomoanj/SQL-Pizza-Order-Analysis/blob/main/Pizza%20Queries.sql)  
 [Dataset](https://github.com/Lomoanj/SQL-Pizza-Order-Analysis/tree/main/Dataset)  
 
 ---
